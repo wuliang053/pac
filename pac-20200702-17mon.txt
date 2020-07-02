@@ -1,5 +1,5 @@
 // Author: iBug <ibugone.com>
-// Time: 2020-07-02T12:56:41
+// Time: 2020-07-02T13:00:09
 
 function belongsToSubnet(host, list) {
   var ip = host.split(".").map(Number);
