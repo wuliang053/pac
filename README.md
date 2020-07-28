@@ -25,3 +25,5 @@ PAC scripts for proxies
 
 1. 从数据源获取 IP 地址列表并转换为 PAC 文件适用的格式，该部分代码位于 [`build.py`](build.py) 文件
 2. PAC 文件的其他部分（例如解析域名和匹配 IP 地址等），该部分代码位于 [`code.js`](code.js) 文件
+
+本项目以 [MIT 协议](LICENSE)开源。
